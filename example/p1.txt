@@ -1,0 +1,3 @@
+ANALYSIS ON THE METHODOLOGY FOR POWER CONSUMPTION OF CMOS IN VLSI
+
+In the past few years, people's pursuit of performance has led to a sharp increase in power consumption in VLSI. For this reason, researchers have proposed many methods to reduce power consumption. Based on this phenomenon, this article aims to provide reference for later researchers by exploring popular ways to reduce power consumption. In this paper, the author introduces the source of power consumption, as well as summarizes traditional and novel ways to reduce power consumption. Through this research, the author found that all of the introduced methods, whether traditional methods or novel methods, have been proven to effectively reduce power consumption.
